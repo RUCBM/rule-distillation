@@ -1,0 +1,22 @@
+[
+  {
+    "instruction": "",
+    "input": "34 @@@ 27 = ?",
+    "output": "62."
+  },
+  {
+    "instruction": "",
+    "input": "37 @@@ 39 = ?",
+    "output": "77."
+  },
+  {
+    "instruction": "",
+    "input": "92 @@@ 44 = ?",
+    "output": "137."
+  },
+  {
+    "instruction": "",
+    "input": "95 @@@ 63 = ?",
+    "output": "159."
+  }
+]

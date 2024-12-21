@@ -1,0 +1,22 @@
+[
+  {
+    "instruction": "",
+    "input": "2 @@@ 53 = ?",
+    "output": "56."
+  },
+  {
+    "instruction": "",
+    "input": "53 @@@ 38 = ?",
+    "output": "92."
+  },
+  {
+    "instruction": "",
+    "input": "98 @@@ 96 = ?",
+    "output": "195."
+  },
+  {
+    "instruction": "",
+    "input": "80 @@@ 23 = ?",
+    "output": "104."
+  }
+]

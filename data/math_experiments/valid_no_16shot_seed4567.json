@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "",
+    "input": "15 @@@ 9 = ?",
+    "output": "25."
+  },
+  {
+    "instruction": "",
+    "input": "83 @@@ 56 = ?",
+    "output": "140."
+  },
+  {
+    "instruction": "",
+    "input": "59 @@@ 26 = ?",
+    "output": "86."
+  },
+  {
+    "instruction": "",
+    "input": "34 @@@ 53 = ?",
+    "output": "88."
+  },
+  {
+    "instruction": "",
+    "input": "45 @@@ 85 = ?",
+    "output": "131."
+  },
+  {
+    "instruction": "",
+    "input": "48 @@@ 42 = ?",
+    "output": "91."
+  },
+  {
+    "instruction": "",
+    "input": "34 @@@ 5 = ?",
+    "output": "40."
+  },
+  {
+    "instruction": "",
+    "input": "28 @@@ 92 = ?",
+    "output": "121."
+  },
+  {
+    "instruction": "",
+    "input": "2 @@@ 38 = ?",
+    "output": "41."
+  },
+  {
+    "instruction": "",
+    "input": "34 @@@ 27 = ?",
+    "output": "62."
+  },
+  {
+    "instruction": "",
+    "input": "97 @@@ 46 = ?",
+    "output": "144."
+  },
+  {
+    "instruction": "",
+    "input": "64 @@@ 89 = ?",
+    "output": "154."
+  },
+  {
+    "instruction": "",
+    "input": "1 @@@ 8 = ?",
+    "output": "10."
+  },
+  {
+    "instruction": "",
+    "input": "93 @@@ 96 = ?",
+    "output": "190."
+  },
+  {
+    "instruction": "",
+    "input": "54 @@@ 72 = ?",
+    "output": "127."
+  },
+  {
+    "instruction": "",
+    "input": "34 @@@ 88 = ?",
+    "output": "123."
+  }
+]

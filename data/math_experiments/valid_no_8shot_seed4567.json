@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "",
+    "input": "15 @@@ 9 = ?",
+    "output": "25."
+  },
+  {
+    "instruction": "",
+    "input": "83 @@@ 56 = ?",
+    "output": "140."
+  },
+  {
+    "instruction": "",
+    "input": "59 @@@ 26 = ?",
+    "output": "86."
+  },
+  {
+    "instruction": "",
+    "input": "34 @@@ 53 = ?",
+    "output": "88."
+  },
+  {
+    "instruction": "",
+    "input": "45 @@@ 85 = ?",
+    "output": "131."
+  },
+  {
+    "instruction": "",
+    "input": "48 @@@ 42 = ?",
+    "output": "91."
+  },
+  {
+    "instruction": "",
+    "input": "34 @@@ 5 = ?",
+    "output": "40."
+  },
+  {
+    "instruction": "",
+    "input": "28 @@@ 92 = ?",
+    "output": "121."
+  }
+]
